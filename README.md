@@ -57,3 +57,15 @@ La plataforma permitirá encontrar opciones de atención veterinaria cuando la m
 > Cuidar mejor a nuestras mascotas comienza con tener información confiable.
 >
 > PetGuard: información para cuidar, herramientas para proteger.
+
+  Este es el tipo de mi proyecto:
+> Aplicación web (Flask) para ayudar a dueños de mascotas con información confiable sobre alimentación, salud y bienestar
+
+  Las bibliotecas que voy a utilizar:
+- Flask-SQLAlchemy
+
+  Referencias útiles:
+- [Flasky – proyecto de ejemplo de Miguel Grinberg (Flask + SQLAlchemy + login de usuarios)](https://github.com/miguelgrinberg/flasky)
+
+  Los artículos de la guía que me ayudarán durante el desarrollo
+Explica paso a paso cómo estructurar una app Flask con base de datos y autenticación de usuarios: [Flask Mega-Tutorial – Parte I](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
